@@ -9,16 +9,6 @@
   <a href="https://unisol-cv.vercel.app">💼 View My CV</a>
 </p>
 
----
-
-## About Me
-
-- **Interests:** Blockchain & Fintech Development
-- **Currently Learning:** React Native
-- **Currently Working On:** Web Development
-
----
-
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=javascript,typescript,nodejs,nest,elysia,react,nextjs,angular,tailwind,postgresql,redis,docker,vite,webpack,bun" />
