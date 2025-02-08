@@ -25,7 +25,3 @@
   </a>
 </p>
 
----
-
-Feel free to explore my projects and get in touch if you'd like to collaborate!
-
