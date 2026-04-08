@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="mailto:unisol1020@icloud.com">📫 Contact Me</a> •
-  <a href="https://unisol1020.dev">💼 View My CV</a>
+  <a href="https://unisol1020.vercel.app">💼 View My CV</a>
 </p>
 
 <p align="center">
