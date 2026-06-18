@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <a href="mailto:unisol1020@icloud.com">📫 Contact Me</a> •
+  <a href="mailto:unisol1020@icloud.com">📫 Contact Me</a>
 </p>
 
 <p align="center">
