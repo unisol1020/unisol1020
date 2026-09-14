@@ -1,16 +1,68 @@
-<h1 align="center">Hi, I'm <a href="https://github.com/unisol1020">@unisol1020</a> 👋</h1>
+<p align="center">
+  <img src="./assets/banner.webp" alt="Bun · ElysiaJS · React · React Native · TypeScript" width="100%">
+</p>
+
+<h1 align="center">
+  Max Levchuk
+  <br>
+  <sub>AI Engineer</sub>
+</h1>
 
 <p align="center">
-  A versatile and passionate full-stack developer with a strong foundation in both front-end and back-end technologies.
+  Agent tooling on one side, the product it ships on the other.<br>
+  Bun + ElysiaJS on the server · React on the web · React Native on the phone
 </p>
 
 <p align="center">
-  <a href="mailto:unisol1020@icloud.com">📫 Contact Me</a>
-</p>
-
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=javascript,typescript,bun,nodejs,elysia,nest,react,nextjs,angular,tailwind,postgresql,redis,docker,vite,webpack" />
+  <a href="mailto:unisol1020@icloud.com">
+    <img alt="Email" src="https://img.shields.io/badge/unisol1020@icloud.com-22d3ee?style=for-the-badge&logo=icloud&logoColor=0a0c14">
+  </a>
+  <a href="https://github.com/unisol1020?tab=repositories">
+    <img alt="Repositories" src="https://img.shields.io/badge/Repositories-a855f7?style=for-the-badge&logo=github&logoColor=white">
   </a>
 </p>
 
+<p align="center">
+  <img src="./assets/terminal.svg" alt="bun run src/index.ts — Elysia ready in 11ms at http://localhost:3000; bunx expo start — React Native on iOS, Android and Web" width="840">
+</p>
+
+---
+
+### What I build
+
+**Agents.** A Claude Code crew that plans a change, implements it, reviews it, then QAs it in a real browser, with memory that consolidates itself between sessions. That is [`ai-tools`](https://github.com/unisol1020/ai-tools), and it is what I push to most.
+
+**And the product they ship.** One TypeScript monorepo, three targets: an **ElysiaJS** API on **Bun**, a **Next.js** web app, and an **Expo / React Native** app. Drizzle owns the schema, Eden types the client against the live API, Zod guards the edges. A renamed column breaks the build instead of production.
+
+Most of the product code is private. The tooling is public.
+
+### Stack
+
+<p align="center">
+  <img alt="Claude" src="https://img.shields.io/badge/Claude-a855f7?style=for-the-badge&logo=claude&logoColor=white">
+  <img alt="Model Context Protocol" src="https://img.shields.io/badge/MCP-22d3ee?style=for-the-badge&logo=modelcontextprotocol&logoColor=0a0c14">
+  <img alt="Anthropic API" src="https://img.shields.io/badge/Anthropic%20API-fbbf24?style=for-the-badge&logo=anthropic&logoColor=0a0c14">
+</p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=bun,elysia,typescript,react,nextjs,tailwind,postgres,supabase,vite,nodejs,git,githubactions&theme=dark" alt="Bun, ElysiaJS, TypeScript, React, Next.js, Tailwind CSS, PostgreSQL, Supabase, Vite, Node.js, Git, GitHub Actions">
+</p>
+
+<p align="center">
+  <sub>Also day to day: Expo · NativeWind · Drizzle ORM · Turborepo · TanStack Query · Zod · Biome · EAS</sub>
+</p>
+
+### Open source
+
+| Project | What it is |
+|---|---|
+| **[ai-tools](https://github.com/unisol1020/ai-tools)** | My Claude Code kit: a planner/engineer/reviewer subagent crew, a manual-QA runner that drives a real browser, ticket writing, and agent memory that consolidates itself. |
+| **[nativecn](https://github.com/unisol1020/nativecn)** | shadcn/ui for React Native. 20 components on NativeWind v4 and `@rn-primitives`, with dark mode and CSS variables, plus an `npx nativecn` CLI. |
+| **[react-native-reusables](https://github.com/founded-labs/react-native-reusables)** | Wrote the CLI's `init` command: project scaffolding, component and lib alias prompts, git-state checks, template resolution. |
+| **[dts-flatten](https://github.com/unisol1020/dts-flatten)** | Drives `tsc` to expand aliases, utility types and generics down to structural primitives, emitting one self-contained `.d.ts`. |
+
+<br>
+
+<p align="center">
+  <sub>Reach me at <a href="mailto:unisol1020@icloud.com">unisol1020@icloud.com</a></sub>
+</p>
