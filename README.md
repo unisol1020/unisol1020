@@ -39,12 +39,6 @@ Most of the product code is private. The tooling is public.
 ### Stack
 
 <p align="center">
-  <img alt="Claude" src="https://img.shields.io/badge/Claude-a855f7?style=for-the-badge&logo=claude&logoColor=white">
-  <img alt="Model Context Protocol" src="https://img.shields.io/badge/MCP-22d3ee?style=for-the-badge&logo=modelcontextprotocol&logoColor=0a0c14">
-  <img alt="Anthropic API" src="https://img.shields.io/badge/Anthropic%20API-fbbf24?style=for-the-badge&logo=anthropic&logoColor=0a0c14">
-</p>
-
-<p align="center">
   <img src="https://skillicons.dev/icons?i=bun,elysia,typescript,react,nextjs,tailwind,postgres,supabase,vite,nodejs,git,githubactions&theme=dark" alt="Bun, ElysiaJS, TypeScript, React, Next.js, Tailwind CSS, PostgreSQL, Supabase, Vite, Node.js, Git, GitHub Actions">
 </p>
 
