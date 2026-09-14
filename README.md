@@ -52,15 +52,6 @@ Most of the product code is private. The tooling is public.
   <sub>Also day to day: Expo · NativeWind · Drizzle ORM · Turborepo · TanStack Query · Zod · Biome · EAS</sub>
 </p>
 
-### Open source
-
-| Project | What it is |
-|---|---|
-| **[ai-tools](https://github.com/unisol1020/ai-tools)** | My Claude Code kit: a planner/engineer/reviewer subagent crew, a manual-QA runner that drives a real browser, ticket writing, and agent memory that consolidates itself. |
-| **[nativecn](https://github.com/unisol1020/nativecn)** | shadcn/ui for React Native. 20 components on NativeWind v4 and `@rn-primitives`, with dark mode and CSS variables, plus an `npx nativecn` CLI. |
-| **[react-native-reusables](https://github.com/founded-labs/react-native-reusables)** | Wrote the CLI's `init` command: project scaffolding, component and lib alias prompts, git-state checks, template resolution. |
-| **[dts-flatten](https://github.com/unisol1020/dts-flatten)** | Drives `tsc` to expand aliases, utility types and generics down to structural primitives, emitting one self-contained `.d.ts`. |
-
 <br>
 
 <p align="center">
