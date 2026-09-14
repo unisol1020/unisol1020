@@ -23,8 +23,6 @@
 
 ---
 
-### Stack
-
 <p align="center">
   <img src="https://skillicons.dev/icons?i=bun,elysia,typescript,react,nextjs,tailwind,postgres,supabase,vite,nodejs,git,githubactions&theme=dark" alt="Bun, ElysiaJS, TypeScript, React, Next.js, Tailwind CSS, PostgreSQL, Supabase, Vite, Node.js, Git, GitHub Actions">
 </p>
