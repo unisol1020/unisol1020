@@ -15,14 +15,8 @@
   <img src="./assets/terminal.svg" alt="bun run src/index.ts — Elysia ready in 11ms at http://localhost:3000; bunx expo start — React Native on iOS, Android and Web" width="840">
 </p>
 
----
-
 <p align="center">
   <img src="https://skillicons.dev/icons?i=bun,elysia,typescript,react,nextjs,tailwind,postgres,supabase,vite,nodejs,git,githubactions&theme=dark" alt="Bun, ElysiaJS, TypeScript, React, Next.js, Tailwind CSS, PostgreSQL, Supabase, Vite, Node.js, Git, GitHub Actions">
-</p>
-
-<p align="center">
-  <sub>Also day to day: Expo · NativeWind · Drizzle ORM · Turborepo · TanStack Query · Zod · Biome · EAS</sub>
 </p>
 
 <br>
