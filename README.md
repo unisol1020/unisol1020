@@ -9,11 +9,6 @@
 </h1>
 
 <p align="center">
-  Agent tooling on one side, the product it ships on the other.<br>
-  Bun + ElysiaJS on the server · React on the web · React Native on the phone
-</p>
-
-<p align="center">
   <a href="mailto:unisol1020@icloud.com">
     <img alt="Email" src="https://img.shields.io/badge/unisol1020@icloud.com-22d3ee?style=for-the-badge&logo=icloud&logoColor=0a0c14">
   </a>
