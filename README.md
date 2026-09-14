@@ -28,14 +28,6 @@
 
 ---
 
-### What I build
-
-**Agents.** A Claude Code crew that plans a change, implements it, reviews it, then QAs it in a real browser, with memory that consolidates itself between sessions. That is [`ai-tools`](https://github.com/unisol1020/ai-tools), and it is what I push to most.
-
-**And the product they ship.** One TypeScript monorepo, three targets: an **ElysiaJS** API on **Bun**, a **Next.js** web app, and an **Expo / React Native** app. Drizzle owns the schema, Eden types the client against the live API, Zod guards the edges. A renamed column breaks the build instead of production.
-
-Most of the product code is private. The tooling is public.
-
 ### Stack
 
 <p align="center">
